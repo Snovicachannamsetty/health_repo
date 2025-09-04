@@ -1,295 +1,362 @@
 [
   {
     "value": "Hypertension",
-    "synonyms": ["Hypertension", "High Blood Pressure", "HTN"]
+    "synonyms": ["Hypertension", "Headache", "Dizziness", "Nosebleeds", "Blurred vision", "Chest pain"]
   },
   {
     "value": "Diabetes Mellitus",
-    "synonyms": ["Diabetes Mellitus", "Type 2 Diabetes", "T2D"]
+    "synonyms": ["Diabetes Mellitus", "Frequent urination", "Excessive thirst", "Unexplained weight loss", "Fatigue", "Slow-healing wounds"]
   },
   {
     "value": "Asthma",
-    "synonyms": ["Asthma", "Bronchial Asthma", "Reactive Airway Disease"]
+    "synonyms": ["Asthma", "Shortness of breath", "Wheezing", "Chest tightness", "Coughing (especially at night)"]
   },
   {
     "value": "Influenza",
-    "synonyms": ["Influenza", "Flu", "Seasonal Flu"]
+    "synonyms": ["Influenza", "Fever", "Chills", "Cough", "Sore throat", "Body aches"]
   },
   {
     "value": "Tuberculosis",
-    "synonyms": ["Tuberculosis", "TB", "Consumption"]
+    "synonyms": ["Tuberculosis", "Persistent cough", "Chest pain", "Coughing up blood", "Night sweats", "Weight loss"]
   },
   {
     "value": "Cancer",
-    "synonyms": ["Cancer", "Malignant Neoplasm", "Carcinoma"]
+    "synonyms": ["Cancer", "Unexplained weight loss", "Fatigue", "Lumps or swelling", "Persistent pain", "Changes in skin"]
   },
   {
     "value": "Pneumonia",
-    "synonyms": ["Pneumonia", "Lung Infection", "Pneumonitis"]
+    "synonyms": ["Pneumonia", "Cough with phlegm", "Fever", "Chills", "Shortness of breath", "Chest pain"]
   },
   {
     "value": "Arthritis",
-    "synonyms": ["Arthritis", "Joint Inflammation", "Rheumatoid Arthritis"]
+    "synonyms": ["Arthritis", "Joint pain", "Stiffness", "Swelling", "Reduced range of motion"]
   },
   {
     "value": "Osteoporosis",
-    "synonyms": ["Osteoporosis", "Brittle Bone Disease", "Porous Bones"]
+    "synonyms": ["Osteoporosis", "Bone fractures", "Back pain", "Loss of height", "Stooped posture"]
   },
   {
     "value": "Migraine",
-    "synonyms": ["Migraine", "Chronic Headache", "Vascular Headache"]
+    "synonyms": ["Migraine", "Severe headache", "Nausea", "Sensitivity to light", "Sensitivity to sound", "Visual disturbances"]
   },
   {
     "value": "Anemia",
-    "synonyms": ["Anemia", "Low Hemoglobin", "Iron Deficiency Anemia"]
+    "synonyms": ["Anemia", "Fatigue", "Weakness", "Pale skin", "Shortness of breath", "Dizziness"]
   },
   {
     "value": "Hepatitis",
-    "synonyms": ["Hepatitis", "Liver Inflammation", "Viral Hepatitis"]
+    "synonyms": ["Hepatitis", "Jaundice", "Abdominal pain", "Fatigue", "Dark urine", "Nausea"]
   },
   {
     "value": "Alzheimer's Disease",
-    "synonyms": ["Alzheimer's Disease", "Senile Dementia", "Neurodegenerative Disease"]
+    "synonyms": ["Alzheimer's Disease", "Memory loss", "Confusion", "Difficulty completing tasks", "Mood changes", "Disorientation"]
   },
   {
     "value": "Parkinson's Disease",
-    "synonyms": ["Parkinson's Disease", "Shaking Palsy", "Parkinsonism"]
+    "synonyms": ["Parkinson's Disease", "Tremors", "Slow movement", "Stiffness", "Balance problems", "Speech changes"]
   },
   {
     "value": "Multiple Sclerosis",
-    "synonyms": ["Multiple Sclerosis", "MS", "Demyelinating Disease"]
+    "synonyms": ["Multiple Sclerosis", "Numbness", "Weakness", "Vision problems", "Difficulty walking", "Muscle spasms"]
   },
   {
     "value": "Epilepsy",
-    "synonyms": ["Epilepsy", "Seizure Disorder", "Convulsive Disorder"]
+    "synonyms": ["Epilepsy", "Seizures", "Confusion", "Loss of consciousness", "Jerking movements"]
   },
   {
     "value": "Cystic Fibrosis",
-    "synonyms": ["Cystic Fibrosis", "CF", "Mucoviscidosis"]
+    "synonyms": ["Cystic Fibrosis", "Persistent cough", "Thick mucus", "Frequent lung infections", "Poor growth", "Salty skin"]
   },
   {
     "value": "HIV/AIDS",
-    "synonyms": ["HIV/AIDS", "Human Immunodeficiency Virus", "Acquired Immunodeficiency Syndrome"]
+    "synonyms": ["HIV/AIDS", "Fever", "Night sweats", "Weight loss", "Fatigue", "Frequent infections"]
   },
   {
     "value": "COVID-19",
-    "synonyms": ["COVID-19", "Coronavirus Disease 2019", "SARS-CoV-2 Infection"]
+    "synonyms": ["COVID-19", "Fever", "Dry cough", "Loss of taste or smell", "Fatigue", "Shortness of breath"]
   },
   {
     "value": "Stroke",
-    "synonyms": ["Stroke", "Cerebrovascular Accident", "Brain Attack"]
+    "synonyms": ["Stroke", "Sudden numbness", "Difficulty speaking", "Vision problems", "Loss of balance", "Severe headache"]
   },
   {
-    "value": "Heart Attack",
-    "synonyms": ["Heart Attack", "Myocardial Infarction", "Acute Coronary Syndrome"]
+    "value": "Chronic Kidney Disease",
+    "synonyms": ["Chronic Kidney Disease", "Fatigue", "Swelling in legs", "Loss of appetite", "Nausea", "Difficulty concentrating"]
   },
   {
-    "value": "Chronic Obstructive Pulmonary Disease",
-    "synonyms": ["Chronic Obstructive Pulmonary Disease", "COPD", "Emphysema"]
-  },
-  {
-    "value": "Gastroesophageal Reflux Disease",
-    "synonyms": ["Gastroesophageal Reflux Disease", "GERD", "Acid Reflux"]
-  },
-  {
-    "value": "Irritable Bowel Syndrome",
-    "synonyms": ["Irritable Bowel Syndrome", "IBS", "Spastic Colon"]
-  },
-  {
-    "value": "Peptic Ulcer Disease",
-    "synonyms": ["Peptic Ulcer Disease", "Stomach Ulcer", "Duodenal Ulcer"]
+    "value": "Liver Cirrhosis",
+    "synonyms": ["Liver Cirrhosis", "Jaundice", "Swelling in abdomen", "Fatigue", "Easy bruising", "Confusion"]
   },
   {
     "value": "Gallstones",
-    "synonyms": ["Gallstones", "Cholelithiasis", "Biliary Calculi"]
+    "synonyms": ["Gallstones", "Severe abdominal pain", "Nausea", "Vomiting", "Indigestion", "Jaundice"]
   },
   {
-    "value": "Kidney Stones",
-    "synonyms": ["Kidney Stones", "Renal Calculi", "Nephrolithiasis"]
+    "value": "Appendicitis",
+    "synonyms": ["Appendicitis", "Abdominal pain (lower right side)", "Nausea", "Vomiting", "Loss of appetite", "Fever"]
   },
   {
-    "value": "Urinary Tract Infection",
-    "synonyms": ["Urinary Tract Infection", "UTI", "Bladder Infection"]
+    "value": "Bronchitis",
+    "synonyms": ["Bronchitis", "Cough with mucus", "Chest discomfort", "Fatigue", "Mild fever", "Shortness of breath"]
   },
   {
-    "value": "Prostate Cancer",
-    "synonyms": ["Prostate Cancer", "Prostatic Carcinoma", "Prostate Neoplasm"]
+    "value": "Chronic Obstructive Pulmonary Disease",
+    "synonyms": ["Chronic Obstructive Pulmonary Disease", "Chronic cough", "Shortness of breath", "Wheezing", "Chest tightness", "Fatigue"]
   },
   {
-    "value": "Cervical Cancer",
-    "synonyms": ["Cervical Cancer", "Uterine Cervix Cancer", "Cervical Carcinoma"]
+    "value": "Gastritis",
+    "synonyms": ["Gastritis", "Stomach pain", "Nausea", "Vomiting", "Loss of appetite", "Indigestion"]
   },
   {
-    "value": "Breast Cancer",
-    "synonyms": ["Breast Cancer", "Mammary Carcinoma", "Breast Neoplasm"]
+    "value": "Peptic Ulcer",
+    "synonyms": ["Peptic Ulcer", "Burning stomach pain", "Bloating", "Nausea", "Vomiting blood", "Dark stools"]
   },
   {
-    "value": "Lung Cancer",
-    "synonyms": ["Lung Cancer", "Pulmonary Carcinoma", "Bronchogenic Carcinoma"]
+    "value": "Malaria",
+    "synonyms": ["Malaria", "Fever", "Chills", "Sweating", "Headache", "Nausea"]
   },
   {
-    "value": "Leukemia",
-    "synonyms": ["Leukemia", "Blood Cancer", "Hematologic Malignancy"]
+    "value": "Dengue Fever",
+    "synonyms": ["Dengue Fever", "High fever", "Severe headache", "Joint pain", "Skin rash", "Bleeding gums"]
   },
   {
-    "value": "Lymphoma",
-    "synonyms": ["Lymphoma", "Lymphatic Cancer", "Lymphoid Neoplasm"]
+    "value": "Cholera",
+    "synonyms": ["Cholera", "Severe diarrhea", "Dehydration", "Vomiting", "Muscle cramps"]
   },
   {
-    "value": "Melanoma",
-    "synonyms": ["Melanoma", "Skin Cancer", "Malignant Melanoma"]
+    "value": "Typhoid Fever",
+    "synonyms": ["Typhoid Fever", "Prolonged fever", "Abdominal pain", "Headache", "Weakness", "Diarrhea or constipation"]
+  },
+  {
+    "value": "Leprosy",
+    "synonyms": ["Leprosy", "Skin lesions", "Numbness", "Muscle weakness", "Eye problems"]
+  },
+  {
+    "value": "Rabies",
+    "synonyms": ["Rabies", "Fever", "Headache", "Anxiety", "Excessive salivation", "Difficulty swallowing", "Hydrophobia"]
+  },
+  {
+    "value": "Ebola Virus Disease",
+    "synonyms": ["Ebola Virus Disease", "Fever", "Severe headache", "Muscle pain", "Vomiting", "Bleeding"]
+  },
+  {
+    "value": "Zika Virus",
+    "synonyms": ["Zika Virus", "Fever", "Rash", "Joint pain", "Conjunctivitis", "Headache"]
+  },
+  {
+    "value": "Measles",
+    "synonyms": ["Measles", "High fever", "Cough", "Runny nose", "Red eyes", "Skin rash"]
+  },
+  {
+    "value": "Polio",
+    "synonyms": ["Polio", "Fever", "Sore throat", "Headache", "Stiff neck", "Muscle weakness", "Paralysis"]
+  },
+  {
+    "value": "Tetanus",
+    "synonyms": ["Tetanus", "Jaw stiffness", "Muscle spasms", "Difficulty swallowing", "Fever", "Seizures"]
+  },
+  {
+    "value": "Diphtheria",
+    "synonyms": ["Diphtheria", "Sore throat", "Thick coating in throat", "Swollen glands", "Fever", "Weakness"]
+  },
+  {
+    "value": "Syphilis",
+    "synonyms": ["Syphilis", "Sores on genitals", "Skin rash", "Fever", "Swollen lymph nodes", "Fatigue"]
+  },
+  {
+    "value": "Gonorrhea",
+    "synonyms": ["Gonorrhea", "Painful urination", "Abnormal discharge", "Pelvic pain", "Swollen testicles"]
+  },
+  {
+    "value": "Chlamydia",
+    "synonyms": ["Chlamydia", "Painful urination", "Abnormal discharge", "Pelvic pain", "Bleeding between periods"]
+  },
+  {
+    "value": "Herpes Simplex",
+    "synonyms": ["Herpes Simplex", "Painful blisters", "Itching", "Burning sensation", "Fever", "Swollen lymph nodes"]
+  },
+  {
+    "value": "Human Papillomavirus Infection",
+    "synonyms": ["Human Papillomavirus Infection", "Genital warts", "Skin warts", "Itching", "Cervical changes"]
+  },
+  {
+    "value": "Mononucleosis",
+    "synonyms": ["Mononucleosis", "Fatigue", "Sore throat", "Fever", "Swollen lymph nodes", "Enlarged spleen"]
+  },
+  {
+    "value": "Lyme Disease",
+    "synonyms": ["Lyme Disease", "Skin rash (bull’s-eye)", "Fever", "Chills", "Fatigue", "Joint pain", "Neurological problems"]
+  },
+  {
+    "value": "Rocky Mountain Spotted Fever",
+    "synonyms": ["Rocky Mountain Spotted Fever", "Fever", "Headache", "Rash", "Muscle aches", "Nausea"]
+  },
+  {
+    "value": "Plague",
+    "synonyms": ["Plague", "Fever", "Chills", "Swollen lymph nodes", "Weakness", "Cough with blood"]
+  },
+  {
+    "value": "Anthrax",
+    "synonyms": ["Anthrax", "Skin ulcers", "Cough", "Chest pain", "Difficulty breathing", "Nausea"]
+  },
+  {
+    "value": "Toxoplasmosis",
+    "synonyms": ["Toxoplasmosis", "Fever", "Muscle aches", "Swollen lymph nodes", "Headache"]
+  },
+  {
+    "value": "Ringworm",
+    "synonyms": ["Ringworm", "Itchy skin", "Red scaly patches", "Hair loss", "Blisters"]
+  },
+  {
+    "value": "Candidiasis",
+    "synonyms": ["Candidiasis", "Itching", "White patches", "Burning sensation", "Discharge"]
+  },
+  {
+    "value": "Histoplasmosis",
+    "synonyms": ["Histoplasmosis", "Fever", "Cough", "Chest pain", "Fatigue", "Chills"]
+  },
+  {
+    "value": "Cryptococcosis",
+    "synonyms": ["Cryptococcosis", "Headache", "Fever", "Cough", "Neck stiffness", "Confusion"]
+  },
+  {
+    "value": "Aspergillosis",
+    "synonyms": ["Aspergillosis", "Cough", "Shortness of breath", "Chest pain", "Fever", "Wheezing"]
+  },
+  {
+    "value": "Pneumocystis Pneumonia",
+    "synonyms": ["Pneumocystis Pneumonia", "Cough", "Shortness of breath", "Fever", "Fatigue", "Chest tightness"]
   },
   {
     "value": "Psoriasis",
-    "synonyms": ["Psoriasis", "Psoriatic Dermatitis", "Chronic Skin Disease"]
+    "synonyms": ["Psoriasis", "Red patches on skin", "Silvery scales", "Itching", "Dry cracked skin", "Joint pain"]
   },
   {
     "value": "Eczema",
-    "synonyms": ["Eczema", "Atopic Dermatitis", "Contact Dermatitis"]
+    "synonyms": ["Eczema", "Itchy skin", "Red inflamed patches", "Dryness", "Thickened skin", "Blisters"]
   },
   {
     "value": "Acne",
-    "synonyms": ["Acne", "Pimples", "Acne Vulgaris"]
+    "synonyms": ["Acne", "Pimples", "Blackheads", "Whiteheads", "Oily skin", "Scarring"]
   },
   {
     "value": "Rosacea",
-    "synonyms": ["Rosacea", "Adult Acne", "Facial Redness"]
+    "synonyms": ["Rosacea", "Facial redness", "Visible blood vessels", "Swollen nose", "Eye irritation"]
   },
   {
     "value": "Vitiligo",
-    "synonyms": ["Vitiligo", "Leukoderma", "Skin Depigmentation"]
+    "synonyms": ["Vitiligo", "Loss of skin color", "White patches", "Premature graying", "Sun sensitivity"]
   },
   {
     "value": "Melasma",
-    "synonyms": ["Melasma", "Chloasma", "Pregnancy Mask"]
+    "synonyms": ["Melasma", "Brown patches on face", "Skin discoloration", "Worsens with sun exposure"]
   },
   {
     "value": "Hives",
-    "synonyms": ["Hives", "Urticaria", "Wheals"]
+    "synonyms": ["Hives", "Raised itchy welts", "Red skin", "Swelling", "Burning sensation"]
   },
   {
     "value": "Allergic Rhinitis",
-    "synonyms": ["Allergic Rhinitis", "Hay Fever", "Seasonal Allergies"]
+    "synonyms": ["Allergic Rhinitis", "Sneezing", "Runny nose", "Itchy eyes", "Nasal congestion"]
   },
   {
     "value": "Sinusitis",
-    "synonyms": ["Sinusitis", "Sinus Infection", "Rhinosinusitis"]
+    "synonyms": ["Sinusitis", "Facial pain", "Nasal congestion", "Headache", "Thick nasal mucus", "Fever"]
   },
   {
     "value": "Tonsillitis",
-    "synonyms": ["Tonsillitis", "Tonsil Infection", "Tonsil Inflammation"]
+    "synonyms": ["Tonsillitis", "Sore throat", "Swollen tonsils", "Fever", "Difficulty swallowing", "Ear pain"]
   },
   {
     "value": "Pharyngitis",
-    "synonyms": ["Pharyngitis", "Sore Throat", "Throat Infection"]
+    "synonyms": ["Pharyngitis", "Sore throat", "Dry throat", "Fever", "Swollen lymph nodes"]
   },
   {
     "value": "Laryngitis",
-    "synonyms": ["Laryngitis", "Voice Box Inflammation", "Hoarseness"]
+    "synonyms": ["Laryngitis", "Hoarseness", "Loss of voice", "Sore throat", "Dry cough"]
   },
   {
     "value": "Conjunctivitis",
-    "synonyms": ["Conjunctivitis", "Pink Eye", "Eye Inflammation"]
+    "synonyms": ["Conjunctivitis", "Red eyes", "Itching", "Tearing", "Discharge", "Swelling"]
   },
   {
     "value": "Glaucoma",
-    "synonyms": ["Glaucoma", "Optic Nerve Damage", "Increased Intraocular Pressure"]
+    "synonyms": ["Glaucoma", "Vision loss", "Eye pain", "Headache", "Halos around lights", "Nausea"]
   },
   {
     "value": "Cataract",
-    "synonyms": ["Cataract", "Lens Opacity", "Cloudy Vision"]
+    "synonyms": ["Cataract", "Cloudy vision", "Blurry vision", "Light sensitivity", "Poor night vision"]
   },
   {
     "value": "Macular Degeneration",
-    "synonyms": ["Macular Degeneration", "Age-Related Macular Degeneration", "AMD"]
+    "synonyms": ["Macular Degeneration", "Loss of central vision", "Blurred vision", "Difficulty recognizing faces", "Distorted vision"]
   },
   {
     "value": "Diabetic Retinopathy",
-    "synonyms": ["Diabetic Retinopathy", "Diabetic Eye Disease", "Retinal Damage"]
+    "synonyms": ["Diabetic Retinopathy", "Blurred vision", "Dark spots", "Vision loss", "Fluctuating vision"]
   },
   {
     "value": "Retinal Detachment",
-    "synonyms": ["Retinal Detachment", "Detached Retina", "Separation of Retina"]
+    "synonyms": ["Retinal Detachment", "Sudden floaters", "Flashes of light", "Shadow over vision", "Blurred vision"]
   },
   {
     "value": "Cervical Spondylosis",
-    "synonyms": ["Cervical Spondylosis", "Neck Arthritis", "Cervical Osteoarthritis"]
+    "synonyms": ["Cervical Spondylosis", "Neck pain", "Stiffness", "Headaches", "Numbness in arms", "Muscle weakness"]
   },
   {
     "value": "Lumbar Spondylosis",
-    "synonyms": ["Lumbar Spondylosis", "Lower Back Arthritis", "Lumbar Osteoarthritis"]
+    "synonyms": ["Lumbar Spondylosis", "Lower back pain", "Stiffness", "Leg numbness", "Difficulty walking", "Muscle weakness"]
   },
   {
     "value": "Sciatica",
-    "synonyms": ["Sciatica", "Sciatic Nerve Pain", "Radiculopathy"]
+    "synonyms": ["Sciatica", "Lower back pain", "Leg pain", "Numbness", "Tingling", "Weakness in leg"]
   },
   {
     "value": "Carpal Tunnel Syndrome",
-    "synonyms": ["Carpal Tunnel Syndrome", "Median Nerve Compression", "Wrist Numbness"]
+    "synonyms": ["Carpal Tunnel Syndrome", "Wrist pain", "Numbness in fingers", "Tingling sensation", "Weak grip strength"]
   },
   {
     "value": "Tennis Elbow",
-    "synonyms": ["Tennis Elbow", "Lateral Epicondylitis", "Elbow Tendonitis"]
+    "synonyms": ["Tennis Elbow", "Elbow pain", "Weak grip", "Tenderness", "Stiffness", "Difficulty lifting objects"]
   },
   {
     "value": "Golfer's Elbow",
-    "synonyms": ["Golfer's Elbow", "Medial Epicondylitis", "Inner Elbow Pain"]
+    "synonyms": ["Golfer's Elbow", "Inner elbow pain", "Stiffness", "Weakness in wrist", "Numbness in fingers"]
   },
   {
     "value": "Frozen Shoulder",
-    "synonyms": ["Frozen Shoulder", "Adhesive Capsulitis", "Shoulder Stiffness"]
+    "synonyms": ["Frozen Shoulder", "Shoulder stiffness", "Pain", "Limited movement", "Difficulty lifting arm"]
   },
   {
     "value": "Rotator Cuff Injury",
-    "synonyms": ["Rotator Cuff Injury", "Shoulder Tendon Injury", "Shoulder Tear"]
+    "synonyms": ["Rotator Cuff Injury", "Shoulder pain", "Weakness", "Difficulty lifting arm", "Clicking sound in shoulder"]
   },
   {
     "value": "Patellar Tendonitis",
-    "synonyms": ["Patellar Tendonitis", "Jumper's Knee", "Knee Tendon Injury"]
+    "synonyms": ["Patellar Tendonitis", "Knee pain", "Swelling", "Tenderness below kneecap", "Difficulty jumping"]
   },
   {
     "value": "Ankle Sprain",
-    "synonyms": ["Ankle Sprain", "Twisted Ankle", "Ligament Injury"]
+    "synonyms": ["Ankle Sprain", "Ankle pain", "Swelling", "Bruising", "Difficulty walking"]
   },
   {
     "value": "Achilles Tendonitis",
-    "synonyms": ["Achilles Tendonitis", "Heel Tendon Inflammation", "Calf Tendon Injury"]
+    "synonyms": ["Achilles Tendonitis", "Heel pain", "Swelling", "Stiffness", "Difficulty running"]
   },
   {
     "value": "Plantar Fasciitis",
-    "synonyms": ["Plantar Fasciitis", "Heel Spur", "Foot Arch Pain"]
+    "synonyms": ["Plantar Fasciitis", "Heel pain", "Foot arch pain", "Stiffness", "Pain after rest"]
   },
   {
     "value": "Gout",
-    "synonyms": ["Gout", "Gouty Arthritis", "Uric Acid Crystal Arthritis"]
+    "synonyms": ["Gout", "Sudden joint pain", "Swelling", "Redness", "Warmth in joint", "Common in big toe"]
   },
   {
-    "value": "Rheumatoid Arthritis",
-    "synonyms": ["Rheumatoid Arthritis", "RA", "Autoimmune Arthritis"]
+    "value": "Scoliosis",
+    "synonyms": ["Scoliosis", "Uneven shoulders", "Back pain", "Curved spine", "One hip higher than other"]
   },
   {
-    "value": "Lupus",
-    "synonyms": ["Lupus", "Systemic Lupus Erythematosus", "SLE"]
-  },
-  {
-    "value": "Scleroderma",
-    "synonyms": ["Scleroderma", "Systemic Sclerosis", "Hard Skin Disease"]
-  },
-  {
-    "value": "Sjogren's Syndrome",
-    "synonyms": ["Sjogren's Syndrome", "Dry Eye Syndrome", "Autoimmune Disorder"]
-  },
-  {
-    "value": "Celiac Disease",
-    "synonyms": ["Celiac Disease", "Gluten Sensitivity", "Celiac Sprue"]
-  },
-  {
-    "value": "Crohn's Disease",
-    "synonyms": ["Crohn's Disease", "Inflammatory Bowel Disease", "IBD"]
-  },
-  {
-    "value": "Ulcerative Colitis",
-    "synonyms": ["Ulcerative Colitis", "Colitis Ulcerosa", "Inflammatory Bowel Disease"]
+    "value": "Kyphosis",
+    "synonyms": ["Kyphosis", "Hunched back", "Back pain", "Stiffness", "Fatigue", "Breathing difficulties"]
   }
 ]
-
