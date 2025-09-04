@@ -34,7 +34,11 @@ def webhook():
         response_text = ""
 
         # If user asks about a disease
+        
         if disease:
+            # Handle if disease is a list
+            if isinstance(disease, list) and len(disease) > 0:
+                disease = disease[0]
             disease = disease.lower()
 
             # Check symptoms
