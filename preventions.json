@@ -1,0 +1,404 @@
+[
+  {
+    "value": "Hypertension",
+    "preventions": ["Maintain healthy weight", "Reduce salt intake", "Exercise regularly", "Avoid smoking", "Manage stress"]
+  },
+  {
+    "value": "Diabetes Mellitus",
+    "preventions": ["Eat a balanced diet", "Exercise regularly", "Maintain healthy weight", "Limit sugar intake", "Regular checkups"]
+  },
+  {
+    "value": "Asthma",
+    "preventions": ["Avoid allergens", "Quit smoking", "Use prescribed inhalers", "Maintain clean environment"]
+  },
+  {
+    "value": "Influenza",
+    "preventions": ["Annual flu vaccination", "Frequent hand washing", "Avoid close contact with sick people", "Cover mouth when sneezing"]
+  },
+  {
+    "value": "Tuberculosis",
+    "preventions": ["Get BCG vaccination", "Ensure proper ventilation", "Cover mouth while coughing", "Complete TB treatment if diagnosed"]
+  },
+  {
+    "value": "Cancer",
+    "preventions": ["Avoid smoking", "Eat healthy diet", "Exercise regularly", "Limit alcohol", "Get regular screenings"]
+  },
+  {
+    "value": "Pneumonia",
+    "preventions": ["Get vaccinated", "Maintain good hygiene", "Avoid smoking", "Strengthen immunity"]
+  },
+  {
+    "value": "Arthritis",
+    "preventions": ["Maintain healthy weight", "Exercise regularly", "Avoid joint injuries", "Eat anti-inflammatory foods"]
+  },
+  {
+    "value": "Osteoporosis",
+    "preventions": ["Consume calcium-rich diet", "Get enough vitamin D", "Exercise regularly", "Avoid smoking and alcohol"]
+  },
+  {
+    "value": "Migraine",
+    "preventions": ["Avoid triggers", "Manage stress", "Maintain regular sleep", "Stay hydrated"]
+  },
+  {
+    "value": "Anemia",
+    "preventions": ["Eat iron-rich foods", "Take folic acid and B12", "Treat underlying causes", "Regular health checkups"]
+  },
+  {
+    "value": "Hepatitis",
+    "preventions": ["Get vaccinated (A and B)", "Avoid contaminated food/water", "Practice safe sex", "Avoid sharing needles"]
+  },
+  {
+    "value": "Alzheimer's Disease",
+    "preventions": ["Stay mentally active", "Exercise regularly", "Eat healthy diet", "Control blood pressure and diabetes"]
+  },
+  {
+    "value": "Parkinson's Disease",
+    "preventions": ["Regular exercise", "Healthy diet", "Avoid exposure to toxins"]
+  },
+  {
+    "value": "Multiple Sclerosis",
+    "preventions": ["Maintain vitamin D levels", "Avoid smoking", "Exercise regularly"]
+  },
+  {
+    "value": "Epilepsy",
+    "preventions": ["Take prescribed medication", "Avoid head injuries", "Manage stress", "Adequate sleep"]
+  },
+  {
+    "value": "Cystic Fibrosis",
+    "preventions": ["Genetic counseling", "Avoid lung infections", "Follow treatment plan", "Regular checkups"]
+  },
+  {
+    "value": "HIV/AIDS",
+    "preventions": ["Practice safe sex", "Avoid sharing needles", "Get tested regularly", "Take preventive medications if at risk"]
+  },
+  {
+    "value": "COVID-19",
+    "preventions": ["Vaccination", "Wear masks", "Hand hygiene", "Avoid crowded places"]
+  },
+  {
+    "value": "Stroke",
+    "preventions": ["Control blood pressure", "Exercise regularly", "Eat healthy diet", "Quit smoking", "Limit alcohol"]
+  },
+  {
+    "value": "Heart Attack",
+    "preventions": ["Eat heart-healthy diet", "Exercise regularly", "Quit smoking", "Control blood pressure", "Manage stress"]
+  },
+  {
+    "value": "Chronic Obstructive Pulmonary Disease",
+    "preventions": ["Quit smoking", "Avoid air pollution", "Use protective masks", "Regular exercise"]
+  },
+  {
+    "value": "Gastroesophageal Reflux Disease",
+    "preventions": ["Avoid spicy foods", "Maintain healthy weight", "Eat small meals", "Avoid lying down after eating"]
+  },
+  {
+    "value": "Irritable Bowel Syndrome",
+    "preventions": ["Eat high-fiber diet", "Stay hydrated", "Manage stress", "Avoid trigger foods"]
+  },
+  {
+    "value": "Peptic Ulcer Disease",
+    "preventions": ["Avoid NSAIDs overuse", "Limit alcohol", "Quit smoking", "Eat balanced diet"]
+  },
+  {
+    "value": "Gallstones",
+    "preventions": ["Maintain healthy weight", "Eat high-fiber diet", "Avoid crash diets", "Exercise regularly"]
+  },
+  {
+    "value": "Kidney Stones",
+    "preventions": ["Drink plenty of water", "Limit salt", "Avoid excess animal protein", "Eat calcium-rich foods in moderation"]
+  },
+  {
+    "value": "Urinary Tract Infection",
+    "preventions": ["Stay hydrated", "Maintain good hygiene", "Urinate after intercourse", "Avoid holding urine too long"]
+  },
+  {
+    "value": "Prostate Cancer",
+    "preventions": ["Eat balanced diet", "Limit red meat", "Exercise regularly", "Regular screenings"]
+  },
+  {
+    "value": "Cervical Cancer",
+    "preventions": ["Get HPV vaccination", "Regular Pap smears", "Practice safe sex", "Avoid smoking"]
+  },
+  {
+    "value": "Breast Cancer",
+    "preventions": ["Regular screenings", "Exercise regularly", "Maintain healthy weight", "Limit alcohol"]
+  },
+  {
+    "value": "Lung Cancer",
+    "preventions": ["Avoid smoking", "Avoid secondhand smoke", "Limit exposure to carcinogens", "Regular screenings if high risk"]
+  },
+  {
+    "value": "Leukemia",
+    "preventions": ["Avoid exposure to radiation", "Avoid harmful chemicals", "Maintain healthy lifestyle"]
+  },
+  {
+    "value": "Lymphoma",
+    "preventions": ["Avoid exposure to toxins", "Maintain strong immune system", "Healthy diet and exercise"]
+  },
+  {
+    "value": "Melanoma",
+    "preventions": ["Use sunscreen", "Avoid excessive sun exposure", "Wear protective clothing", "Regular skin checks"]
+  },
+  {
+    "value": "Psoriasis",
+    "preventions": ["Avoid stress", "Moisturize skin", "Avoid triggers like smoking and alcohol", "Follow prescribed treatment"]
+  },
+  {
+    "value": "Eczema",
+    "preventions": ["Moisturize regularly", "Avoid allergens", "Use gentle soaps", "Manage stress"]
+  },
+  {
+    "value": "Acne",
+    "preventions": ["Wash face regularly", "Avoid oily products", "Eat healthy diet", "Don’t pick pimples"]
+  },
+  {
+    "value": "Rosacea",
+    "preventions": ["Avoid sun exposure", "Limit alcohol", "Avoid spicy foods", "Use gentle skincare products"]
+  },
+  {
+    "value": "Vitiligo",
+    "preventions": ["Protect skin from sun", "Avoid skin injuries", "Manage stress", "Healthy diet"]
+  },
+  {
+    "value": "Depression",
+    "preventions": ["Regular exercise", "Seek social support", "Manage stress", "Avoid alcohol and drugs"]
+  },
+  {
+    "value": "Anxiety Disorder",
+    "preventions": ["Practice relaxation techniques", "Regular exercise", "Adequate sleep", "Seek therapy if needed"]
+  },
+  {
+    "value": "Bipolar Disorder",
+    "preventions": ["Regular mental health checkups", "Maintain routine", "Take prescribed medications", "Avoid alcohol and drugs"]
+  },
+  {
+    "value": "Schizophrenia",
+    "preventions": ["Early intervention", "Adherence to treatment", "Avoid substance abuse", "Stress management"]
+  },
+  {
+    "value": "Autism Spectrum Disorder",
+    "preventions": ["Early screening and intervention", "Prenatal care", "Healthy pregnancy practices"]
+  },
+  {
+    "value": "Attention Deficit Hyperactivity Disorder",
+    "preventions": ["Healthy prenatal care", "Avoid toxins during pregnancy", "Early behavioral therapy"]
+  },
+  {
+    "value": "Obsessive Compulsive Disorder",
+    "preventions": ["Early diagnosis", "Therapy adherence", "Stress management"]
+  },
+  {
+    "value": "Post Traumatic Stress Disorder",
+    "preventions": ["Seek early counseling", "Practice relaxation", "Maintain social support"]
+  },
+  {
+    "value": "Chronic Kidney Disease",
+    "preventions": ["Control blood pressure", "Manage diabetes", "Avoid excessive salt", "Stay hydrated"]
+  },
+  {
+    "value": "Glomerulonephritis",
+    "preventions": ["Prevent infections", "Control blood pressure", "Avoid toxins", "Regular checkups"]
+  },
+  {
+    "value": "Nephrotic Syndrome",
+    "preventions": ["Treat infections promptly", "Control blood pressure", "Limit salt intake"]
+  },
+  {
+    "value": "Hepatitis B",
+    "preventions": ["Get vaccinated", "Practice safe sex", "Avoid sharing needles", "Screen blood donations"]
+  },
+  {
+    "value": "Hepatitis C",
+    "preventions": ["Avoid sharing needles", "Practice safe sex", "Screen blood products"]
+  },
+  {
+    "value": "Cirrhosis",
+    "preventions": ["Avoid alcohol", "Vaccinate against hepatitis", "Maintain healthy diet", "Avoid toxins"]
+  },
+  {
+    "value": "Fatty Liver Disease",
+    "preventions": ["Maintain healthy weight", "Exercise regularly", "Avoid alcohol", "Eat balanced diet"]
+  },
+  {
+    "value": "Pancreatitis",
+    "preventions": ["Avoid alcohol", "Maintain healthy weight", "Eat low-fat diet"]
+  },
+  {
+    "value": "Gout",
+    "preventions": ["Avoid purine-rich foods", "Limit alcohol", "Maintain healthy weight", "Stay hydrated"]
+  },
+  {
+    "value": "Rickets",
+    "preventions": ["Adequate vitamin D", "Get sunlight exposure", "Balanced diet with calcium"]
+  },
+  {
+    "value": "Scurvy",
+    "preventions": ["Eat vitamin C-rich foods", "Balanced diet with fruits and vegetables"]
+  },
+  {
+    "value": "Beriberi",
+    "preventions": ["Eat vitamin B1-rich foods", "Balanced diet with whole grains and legumes"]
+  },
+  {
+    "value": "Pellagra",
+    "preventions": ["Eat niacin-rich foods", "Balanced diet with protein", "Fortified foods"]
+  },
+  {
+    "value": "Kwashiorkor",
+    "preventions": ["Adequate protein intake", "Balanced diet", "Early childhood nutrition"]
+  },
+  {
+    "value": "Marasmus",
+    "preventions": ["Adequate calorie intake", "Balanced diet", "Prevent childhood malnutrition"]
+  },
+  {
+    "value": "Obesity",
+    "preventions": ["Healthy balanced diet", "Regular physical activity", "Limit junk food", "Portion control"]
+  },
+  {
+    "value": "Metabolic Syndrome",
+    "preventions": ["Maintain healthy weight", "Exercise regularly", "Eat balanced diet", "Manage blood sugar and blood pressure"]
+  },
+  {
+    "value": "Polycystic Ovary Syndrome",
+    "preventions": ["Maintain healthy weight", "Exercise regularly", "Eat balanced diet", "Regular checkups"]
+  },
+  {
+    "value": "Endometriosis",
+    "preventions": ["Regular gynecological checkups", "Healthy lifestyle", "Hormonal management if prescribed"]
+  },
+  {
+    "value": "Ovarian Cancer",
+    "preventions": ["Regular screenings", "Genetic counseling if family history", "Healthy lifestyle"]
+  },
+  {
+    "value": "Testicular Cancer",
+    "preventions": ["Regular self-exams", "Seek medical care for lumps or pain"]
+  },
+  {
+    "value": "Thyroid Cancer",
+    "preventions": ["Avoid radiation exposure", "Regular checkups if family history", "Balanced diet with iodine"]
+  },
+  {
+    "value": "Hypothyroidism",
+    "preventions": ["Eat iodine-rich foods", "Regular thyroid checkups", "Manage autoimmune conditions"]
+  },
+  {
+    "value": "Hyperthyroidism",
+    "preventions": ["Regular thyroid monitoring", "Manage stress", "Balanced diet"]
+  },
+  {
+    "value": "Celiac Disease",
+    "preventions": ["Avoid gluten", "Balanced gluten-free diet", "Early screening if family history"]
+  },
+  {
+    "value": "Lactose Intolerance",
+    "preventions": ["Limit dairy intake", "Use lactose-free products", "Take lactase supplements if needed"]
+  },
+  {
+    "value": "Food Poisoning",
+    "preventions": ["Proper food handling", "Wash hands before meals", "Cook food thoroughly", "Avoid contaminated water"]
+  },
+  {
+    "value": "Cholera",
+    "preventions": ["Drink clean water", "Proper sanitation", "Oral cholera vaccine", "Wash hands regularly"]
+  },
+  {
+    "value": "Dengue Fever",
+    "preventions": ["Avoid mosquito bites", "Use mosquito nets", "Eliminate standing water", "Use repellents"]
+  },
+  {
+    "value": "Malaria",
+    "preventions": ["Use mosquito nets", "Take antimalarial drugs", "Eliminate mosquito breeding sites", "Use repellents"]
+  },
+  {
+    "value": "Zika Virus",
+    "preventions": ["Avoid mosquito bites", "Use insect repellent", "Practice safe sex if exposed", "Avoid travel to outbreak areas"]
+  },
+  {
+    "value": "Ebola Virus Disease",
+    "preventions": ["Avoid contact with infected persons", "Use protective equipment", "Practice safe burial methods", "Strengthen infection control"]
+  },
+  {
+    "value": "Rabies",
+    "preventions": ["Rabies vaccination", "Avoid animal bites", "Immediate wound cleaning", "Post-exposure prophylaxis if bitten"]
+  },
+  {
+    "value": "Tetanus",
+    "preventions": ["Tetanus vaccination", "Proper wound care", "Avoid rust-contaminated injuries"]
+  },
+  {
+    "value": "Polio",
+    "preventions": ["Polio vaccination", "Maintain hygiene", "Safe sanitation"]
+  },
+  {
+    "value": "Measles",
+    "preventions": ["Measles vaccination (MMR)", "Avoid contact with infected persons", "Boost immunity with nutrition"]
+  },
+  {
+    "value": "Mumps",
+    "preventions": ["MMR vaccination", "Avoid close contact with infected persons"]
+  },
+  {
+    "value": "Rubella",
+    "preventions": ["MMR vaccination", "Avoid exposure during pregnancy"]
+  },
+  {
+    "value": "Chickenpox",
+    "preventions": ["Varicella vaccination", "Avoid contact with infected persons", "Boost immunity"]
+  },
+  {
+    "value": "Shingles",
+    "preventions": ["Shingles vaccine (for older adults)", "Manage stress", "Maintain strong immunity"]
+  },
+  {
+    "value": "Whooping Cough (Pertussis)",
+    "preventions": ["DTaP/Tdap vaccination", "Avoid close contact with infected persons", "Good respiratory hygiene"]
+  },
+  {
+    "value": "Diphtheria",
+    "preventions": ["DTP vaccination", "Good hygiene", "Avoid close contact with infected persons"]
+  },
+  {
+    "value": "Hepatitis A",
+    "preventions": ["Hepatitis A vaccine", "Eat hygienic food", "Drink clean water", "Wash hands regularly"]
+  },
+  {
+    "value": "Hepatitis B",
+    "preventions": ["Hepatitis B vaccine", "Safe sex practices", "Avoid sharing needles", "Blood screening"]
+  },
+  {
+    "value": "Hepatitis C",
+    "preventions": ["Avoid sharing needles", "Safe blood transfusions", "Safe sex practices"]
+  },
+  {
+    "value": "Syphilis",
+    "preventions": ["Safe sex practices", "Regular STI testing", "Avoid sharing needles"]
+  },
+  {
+    "value": "Gonorrhea",
+    "preventions": ["Safe sex practices", "Use condoms", "Regular STI screening"]
+  },
+  {
+    "value": "Chlamydia",
+    "preventions": ["Safe sex practices", "Use condoms", "Regular STI testing"]
+  },
+  {
+    "value": "Herpes Simplex Virus",
+    "preventions": ["Avoid direct contact during outbreaks", "Use protection", "Avoid sharing personal items"]
+  },
+  {
+    "value": "Human Papillomavirus (HPV)",
+    "preventions": ["HPV vaccination", "Safe sex practices", "Regular Pap smears"]
+  },
+  {
+    "value": "Lyme Disease",
+    "preventions": ["Avoid tick bites", "Wear protective clothing outdoors", "Use tick repellents", "Check skin for ticks after exposure"]
+  },
+  {
+    "value": "Plague",
+    "preventions": ["Avoid rodent exposure", "Use insect repellents", "Maintain sanitation", "Seek medical care for symptoms early"]
+  }
+]
+
+

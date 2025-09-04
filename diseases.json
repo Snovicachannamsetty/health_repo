@@ -1,0 +1,295 @@
+[
+  {
+    "value": "Hypertension",
+    "synonyms": ["Hypertension", "High Blood Pressure", "HTN"]
+  },
+  {
+    "value": "Diabetes Mellitus",
+    "synonyms": ["Diabetes Mellitus", "Type 2 Diabetes", "T2D"]
+  },
+  {
+    "value": "Asthma",
+    "synonyms": ["Asthma", "Bronchial Asthma", "Reactive Airway Disease"]
+  },
+  {
+    "value": "Influenza",
+    "synonyms": ["Influenza", "Flu", "Seasonal Flu"]
+  },
+  {
+    "value": "Tuberculosis",
+    "synonyms": ["Tuberculosis", "TB", "Consumption"]
+  },
+  {
+    "value": "Cancer",
+    "synonyms": ["Cancer", "Malignant Neoplasm", "Carcinoma"]
+  },
+  {
+    "value": "Pneumonia",
+    "synonyms": ["Pneumonia", "Lung Infection", "Pneumonitis"]
+  },
+  {
+    "value": "Arthritis",
+    "synonyms": ["Arthritis", "Joint Inflammation", "Rheumatoid Arthritis"]
+  },
+  {
+    "value": "Osteoporosis",
+    "synonyms": ["Osteoporosis", "Brittle Bone Disease", "Porous Bones"]
+  },
+  {
+    "value": "Migraine",
+    "synonyms": ["Migraine", "Chronic Headache", "Vascular Headache"]
+  },
+  {
+    "value": "Anemia",
+    "synonyms": ["Anemia", "Low Hemoglobin", "Iron Deficiency Anemia"]
+  },
+  {
+    "value": "Hepatitis",
+    "synonyms": ["Hepatitis", "Liver Inflammation", "Viral Hepatitis"]
+  },
+  {
+    "value": "Alzheimer's Disease",
+    "synonyms": ["Alzheimer's Disease", "Senile Dementia", "Neurodegenerative Disease"]
+  },
+  {
+    "value": "Parkinson's Disease",
+    "synonyms": ["Parkinson's Disease", "Shaking Palsy", "Parkinsonism"]
+  },
+  {
+    "value": "Multiple Sclerosis",
+    "synonyms": ["Multiple Sclerosis", "MS", "Demyelinating Disease"]
+  },
+  {
+    "value": "Epilepsy",
+    "synonyms": ["Epilepsy", "Seizure Disorder", "Convulsive Disorder"]
+  },
+  {
+    "value": "Cystic Fibrosis",
+    "synonyms": ["Cystic Fibrosis", "CF", "Mucoviscidosis"]
+  },
+  {
+    "value": "HIV/AIDS",
+    "synonyms": ["HIV/AIDS", "Human Immunodeficiency Virus", "Acquired Immunodeficiency Syndrome"]
+  },
+  {
+    "value": "COVID-19",
+    "synonyms": ["COVID-19", "Coronavirus Disease 2019", "SARS-CoV-2 Infection"]
+  },
+  {
+    "value": "Stroke",
+    "synonyms": ["Stroke", "Cerebrovascular Accident", "Brain Attack"]
+  },
+  {
+    "value": "Heart Attack",
+    "synonyms": ["Heart Attack", "Myocardial Infarction", "Acute Coronary Syndrome"]
+  },
+  {
+    "value": "Chronic Obstructive Pulmonary Disease",
+    "synonyms": ["Chronic Obstructive Pulmonary Disease", "COPD", "Emphysema"]
+  },
+  {
+    "value": "Gastroesophageal Reflux Disease",
+    "synonyms": ["Gastroesophageal Reflux Disease", "GERD", "Acid Reflux"]
+  },
+  {
+    "value": "Irritable Bowel Syndrome",
+    "synonyms": ["Irritable Bowel Syndrome", "IBS", "Spastic Colon"]
+  },
+  {
+    "value": "Peptic Ulcer Disease",
+    "synonyms": ["Peptic Ulcer Disease", "Stomach Ulcer", "Duodenal Ulcer"]
+  },
+  {
+    "value": "Gallstones",
+    "synonyms": ["Gallstones", "Cholelithiasis", "Biliary Calculi"]
+  },
+  {
+    "value": "Kidney Stones",
+    "synonyms": ["Kidney Stones", "Renal Calculi", "Nephrolithiasis"]
+  },
+  {
+    "value": "Urinary Tract Infection",
+    "synonyms": ["Urinary Tract Infection", "UTI", "Bladder Infection"]
+  },
+  {
+    "value": "Prostate Cancer",
+    "synonyms": ["Prostate Cancer", "Prostatic Carcinoma", "Prostate Neoplasm"]
+  },
+  {
+    "value": "Cervical Cancer",
+    "synonyms": ["Cervical Cancer", "Uterine Cervix Cancer", "Cervical Carcinoma"]
+  },
+  {
+    "value": "Breast Cancer",
+    "synonyms": ["Breast Cancer", "Mammary Carcinoma", "Breast Neoplasm"]
+  },
+  {
+    "value": "Lung Cancer",
+    "synonyms": ["Lung Cancer", "Pulmonary Carcinoma", "Bronchogenic Carcinoma"]
+  },
+  {
+    "value": "Leukemia",
+    "synonyms": ["Leukemia", "Blood Cancer", "Hematologic Malignancy"]
+  },
+  {
+    "value": "Lymphoma",
+    "synonyms": ["Lymphoma", "Lymphatic Cancer", "Lymphoid Neoplasm"]
+  },
+  {
+    "value": "Melanoma",
+    "synonyms": ["Melanoma", "Skin Cancer", "Malignant Melanoma"]
+  },
+  {
+    "value": "Psoriasis",
+    "synonyms": ["Psoriasis", "Psoriatic Dermatitis", "Chronic Skin Disease"]
+  },
+  {
+    "value": "Eczema",
+    "synonyms": ["Eczema", "Atopic Dermatitis", "Contact Dermatitis"]
+  },
+  {
+    "value": "Acne",
+    "synonyms": ["Acne", "Pimples", "Acne Vulgaris"]
+  },
+  {
+    "value": "Rosacea",
+    "synonyms": ["Rosacea", "Adult Acne", "Facial Redness"]
+  },
+  {
+    "value": "Vitiligo",
+    "synonyms": ["Vitiligo", "Leukoderma", "Skin Depigmentation"]
+  },
+  {
+    "value": "Melasma",
+    "synonyms": ["Melasma", "Chloasma", "Pregnancy Mask"]
+  },
+  {
+    "value": "Hives",
+    "synonyms": ["Hives", "Urticaria", "Wheals"]
+  },
+  {
+    "value": "Allergic Rhinitis",
+    "synonyms": ["Allergic Rhinitis", "Hay Fever", "Seasonal Allergies"]
+  },
+  {
+    "value": "Sinusitis",
+    "synonyms": ["Sinusitis", "Sinus Infection", "Rhinosinusitis"]
+  },
+  {
+    "value": "Tonsillitis",
+    "synonyms": ["Tonsillitis", "Tonsil Infection", "Tonsil Inflammation"]
+  },
+  {
+    "value": "Pharyngitis",
+    "synonyms": ["Pharyngitis", "Sore Throat", "Throat Infection"]
+  },
+  {
+    "value": "Laryngitis",
+    "synonyms": ["Laryngitis", "Voice Box Inflammation", "Hoarseness"]
+  },
+  {
+    "value": "Conjunctivitis",
+    "synonyms": ["Conjunctivitis", "Pink Eye", "Eye Inflammation"]
+  },
+  {
+    "value": "Glaucoma",
+    "synonyms": ["Glaucoma", "Optic Nerve Damage", "Increased Intraocular Pressure"]
+  },
+  {
+    "value": "Cataract",
+    "synonyms": ["Cataract", "Lens Opacity", "Cloudy Vision"]
+  },
+  {
+    "value": "Macular Degeneration",
+    "synonyms": ["Macular Degeneration", "Age-Related Macular Degeneration", "AMD"]
+  },
+  {
+    "value": "Diabetic Retinopathy",
+    "synonyms": ["Diabetic Retinopathy", "Diabetic Eye Disease", "Retinal Damage"]
+  },
+  {
+    "value": "Retinal Detachment",
+    "synonyms": ["Retinal Detachment", "Detached Retina", "Separation of Retina"]
+  },
+  {
+    "value": "Cervical Spondylosis",
+    "synonyms": ["Cervical Spondylosis", "Neck Arthritis", "Cervical Osteoarthritis"]
+  },
+  {
+    "value": "Lumbar Spondylosis",
+    "synonyms": ["Lumbar Spondylosis", "Lower Back Arthritis", "Lumbar Osteoarthritis"]
+  },
+  {
+    "value": "Sciatica",
+    "synonyms": ["Sciatica", "Sciatic Nerve Pain", "Radiculopathy"]
+  },
+  {
+    "value": "Carpal Tunnel Syndrome",
+    "synonyms": ["Carpal Tunnel Syndrome", "Median Nerve Compression", "Wrist Numbness"]
+  },
+  {
+    "value": "Tennis Elbow",
+    "synonyms": ["Tennis Elbow", "Lateral Epicondylitis", "Elbow Tendonitis"]
+  },
+  {
+    "value": "Golfer's Elbow",
+    "synonyms": ["Golfer's Elbow", "Medial Epicondylitis", "Inner Elbow Pain"]
+  },
+  {
+    "value": "Frozen Shoulder",
+    "synonyms": ["Frozen Shoulder", "Adhesive Capsulitis", "Shoulder Stiffness"]
+  },
+  {
+    "value": "Rotator Cuff Injury",
+    "synonyms": ["Rotator Cuff Injury", "Shoulder Tendon Injury", "Shoulder Tear"]
+  },
+  {
+    "value": "Patellar Tendonitis",
+    "synonyms": ["Patellar Tendonitis", "Jumper's Knee", "Knee Tendon Injury"]
+  },
+  {
+    "value": "Ankle Sprain",
+    "synonyms": ["Ankle Sprain", "Twisted Ankle", "Ligament Injury"]
+  },
+  {
+    "value": "Achilles Tendonitis",
+    "synonyms": ["Achilles Tendonitis", "Heel Tendon Inflammation", "Calf Tendon Injury"]
+  },
+  {
+    "value": "Plantar Fasciitis",
+    "synonyms": ["Plantar Fasciitis", "Heel Spur", "Foot Arch Pain"]
+  },
+  {
+    "value": "Gout",
+    "synonyms": ["Gout", "Gouty Arthritis", "Uric Acid Crystal Arthritis"]
+  },
+  {
+    "value": "Rheumatoid Arthritis",
+    "synonyms": ["Rheumatoid Arthritis", "RA", "Autoimmune Arthritis"]
+  },
+  {
+    "value": "Lupus",
+    "synonyms": ["Lupus", "Systemic Lupus Erythematosus", "SLE"]
+  },
+  {
+    "value": "Scleroderma",
+    "synonyms": ["Scleroderma", "Systemic Sclerosis", "Hard Skin Disease"]
+  },
+  {
+    "value": "Sjogren's Syndrome",
+    "synonyms": ["Sjogren's Syndrome", "Dry Eye Syndrome", "Autoimmune Disorder"]
+  },
+  {
+    "value": "Celiac Disease",
+    "synonyms": ["Celiac Disease", "Gluten Sensitivity", "Celiac Sprue"]
+  },
+  {
+    "value": "Crohn's Disease",
+    "synonyms": ["Crohn's Disease", "Inflammatory Bowel Disease", "IBD"]
+  },
+  {
+    "value": "Ulcerative Colitis",
+    "synonyms": ["Ulcerative Colitis", "Colitis Ulcerosa", "Inflammatory Bowel Disease"]
+  }
+]
+
