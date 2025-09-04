@@ -70,7 +70,7 @@ def webhook():
             response_text = "Please ask me about a disease or symptom."
 
         return jsonify({"fulfillmentText": response_text})
-
+        
     return jsonify({"fulfillmentText": "Intent not handled by webhook."})
 
 
