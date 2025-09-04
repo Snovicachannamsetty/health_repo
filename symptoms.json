@@ -1,395 +1,362 @@
 [
   {
     "value": "Hypertension",
-    "symptoms": ["Headache", "Dizziness", "Nosebleeds", "Blurred vision", "Chest pain"]
+    "synonyms": ["Hypertension", "Headache", "Dizziness", "Nosebleeds", "Blurred vision", "Chest pain"]
   },
   {
     "value": "Diabetes Mellitus",
-    "symptoms": ["Frequent urination", "Excessive thirst", "Unexplained weight loss", "Fatigue", "Slow-healing wounds"]
+    "synonyms": ["Diabetes Mellitus", "Frequent urination", "Excessive thirst", "Unexplained weight loss", "Fatigue", "Slow-healing wounds"]
   },
   {
     "value": "Asthma",
-    "symptoms": ["Shortness of breath", "Wheezing", "Chest tightness", "Coughing (especially at night)"]
+    "synonyms": ["Asthma", "Shortness of breath", "Wheezing", "Chest tightness", "Coughing (especially at night)"]
   },
   {
     "value": "Influenza",
-    "symptoms": ["Fever", "Chills", "Cough", "Sore throat", "Body aches"]
+    "synonyms": ["Influenza", "Fever", "Chills", "Cough", "Sore throat", "Body aches"]
   },
   {
     "value": "Tuberculosis",
-    "symptoms": ["Persistent cough", "Chest pain", "Coughing up blood", "Night sweats", "Weight loss"]
+    "synonyms": ["Tuberculosis", "Persistent cough", "Chest pain", "Coughing up blood", "Night sweats", "Weight loss"]
   },
   {
     "value": "Cancer",
-    "symptoms": ["Unexplained weight loss", "Fatigue", "Lumps or swelling", "Persistent pain", "Changes in skin"]
+    "synonyms": ["Cancer", "Unexplained weight loss", "Fatigue", "Lumps or swelling", "Persistent pain", "Changes in skin"]
   },
   {
     "value": "Pneumonia",
-    "symptoms": ["Cough with phlegm", "Fever", "Chills", "Shortness of breath", "Chest pain"]
+    "synonyms": ["Pneumonia", "Cough with phlegm", "Fever", "Chills", "Shortness of breath", "Chest pain"]
   },
   {
     "value": "Arthritis",
-    "symptoms": ["Joint pain", "Stiffness", "Swelling", "Reduced range of motion"]
+    "synonyms": ["Arthritis", "Joint pain", "Stiffness", "Swelling", "Reduced range of motion"]
   },
   {
     "value": "Osteoporosis",
-    "symptoms": ["Bone fractures", "Back pain", "Loss of height", "Stooped posture"]
+    "synonyms": ["Osteoporosis", "Bone fractures", "Back pain", "Loss of height", "Stooped posture"]
   },
   {
     "value": "Migraine",
-    "symptoms": ["Severe headache", "Nausea", "Sensitivity to light", "Sensitivity to sound", "Visual disturbances"]
+    "synonyms": ["Migraine", "Severe headache", "Nausea", "Sensitivity to light", "Sensitivity to sound", "Visual disturbances"]
   },
   {
     "value": "Anemia",
-    "symptoms": ["Fatigue", "Weakness", "Pale skin", "Shortness of breath", "Dizziness"]
+    "synonyms": ["Anemia", "Fatigue", "Weakness", "Pale skin", "Shortness of breath", "Dizziness"]
   },
   {
     "value": "Hepatitis",
-    "symptoms": ["Jaundice", "Abdominal pain", "Fatigue", "Dark urine", "Nausea"]
+    "synonyms": ["Hepatitis", "Jaundice", "Abdominal pain", "Fatigue", "Dark urine", "Nausea"]
   },
   {
     "value": "Alzheimer's Disease",
-    "symptoms": ["Memory loss", "Confusion", "Difficulty completing tasks", "Mood changes", "Disorientation"]
+    "synonyms": ["Alzheimer's Disease", "Memory loss", "Confusion", "Difficulty completing tasks", "Mood changes", "Disorientation"]
   },
   {
     "value": "Parkinson's Disease",
-    "symptoms": ["Tremors", "Slow movement", "Stiffness", "Balance problems", "Speech changes"]
+    "synonyms": ["Parkinson's Disease", "Tremors", "Slow movement", "Stiffness", "Balance problems", "Speech changes"]
   },
   {
     "value": "Multiple Sclerosis",
-    "symptoms": ["Numbness", "Weakness", "Vision problems", "Difficulty walking", "Muscle spasms"]
+    "synonyms": ["Multiple Sclerosis", "Numbness", "Weakness", "Vision problems", "Difficulty walking", "Muscle spasms"]
   },
   {
     "value": "Epilepsy",
-    "symptoms": ["Seizures", "Confusion", "Loss of consciousness", "Jerking movements"]
+    "synonyms": ["Epilepsy", "Seizures", "Confusion", "Loss of consciousness", "Jerking movements"]
   },
   {
     "value": "Cystic Fibrosis",
-    "symptoms": ["Persistent cough", "Thick mucus", "Frequent lung infections", "Poor growth", "Salty skin"]
+    "synonyms": ["Cystic Fibrosis", "Persistent cough", "Thick mucus", "Frequent lung infections", "Poor growth", "Salty skin"]
   },
   {
     "value": "HIV/AIDS",
-    "symptoms": ["Fever", "Night sweats", "Weight loss", "Fatigue", "Frequent infections"]
+    "synonyms": ["HIV/AIDS", "Fever", "Night sweats", "Weight loss", "Fatigue", "Frequent infections"]
   },
   {
     "value": "COVID-19",
-    "symptoms": ["Fever", "Dry cough", "Loss of taste or smell", "Fatigue", "Shortness of breath"]
+    "synonyms": ["COVID-19", "Fever", "Dry cough", "Loss of taste or smell", "Fatigue", "Shortness of breath"]
   },
   {
     "value": "Stroke",
-    "symptoms": ["Sudden numbness", "Difficulty speaking", "Vision problems", "Loss of balance", "Severe headache"]
+    "synonyms": ["Stroke", "Sudden numbness", "Difficulty speaking", "Vision problems", "Loss of balance", "Severe headache"]
   },
   {
     "value": "Chronic Kidney Disease",
-    "symptoms": ["Fatigue", "Swelling in legs", "Loss of appetite", "Nausea", "Difficulty concentrating"]
+    "synonyms": ["Chronic Kidney Disease", "Fatigue", "Swelling in legs", "Loss of appetite", "Nausea", "Difficulty concentrating"]
   },
   {
     "value": "Liver Cirrhosis",
-    "symptoms": ["Jaundice", "Swelling in abdomen", "Fatigue", "Easy bruising", "Confusion"]
+    "synonyms": ["Liver Cirrhosis", "Jaundice", "Swelling in abdomen", "Fatigue", "Easy bruising", "Confusion"]
   },
   {
     "value": "Gallstones",
-    "symptoms": ["Severe abdominal pain", "Nausea", "Vomiting", "Indigestion", "Jaundice"]
+    "synonyms": ["Gallstones", "Severe abdominal pain", "Nausea", "Vomiting", "Indigestion", "Jaundice"]
   },
   {
     "value": "Appendicitis",
-    "symptoms": ["Abdominal pain (lower right side)", "Nausea", "Vomiting", "Loss of appetite", "Fever"]
+    "synonyms": ["Appendicitis", "Abdominal pain (lower right side)", "Nausea", "Vomiting", "Loss of appetite", "Fever"]
   },
   {
     "value": "Bronchitis",
-    "symptoms": ["Cough with mucus", "Chest discomfort", "Fatigue", "Mild fever", "Shortness of breath"]
+    "synonyms": ["Bronchitis", "Cough with mucus", "Chest discomfort", "Fatigue", "Mild fever", "Shortness of breath"]
   },
   {
     "value": "Chronic Obstructive Pulmonary Disease",
-    "symptoms": ["Chronic cough", "Shortness of breath", "Wheezing", "Chest tightness", "Fatigue"]
+    "synonyms": ["Chronic Obstructive Pulmonary Disease", "Chronic cough", "Shortness of breath", "Wheezing", "Chest tightness", "Fatigue"]
   },
   {
     "value": "Gastritis",
-    "symptoms": ["Stomach pain", "Nausea", "Vomiting", "Loss of appetite", "Indigestion"]
+    "synonyms": ["Gastritis", "Stomach pain", "Nausea", "Vomiting", "Loss of appetite", "Indigestion"]
   },
   {
     "value": "Peptic Ulcer",
-    "symptoms": ["Burning stomach pain", "Bloating", "Nausea", "Vomiting blood", "Dark stools"]
+    "synonyms": ["Peptic Ulcer", "Burning stomach pain", "Bloating", "Nausea", "Vomiting blood", "Dark stools"]
   },
   {
     "value": "Malaria",
-    "symptoms": ["Fever", "Chills", "Sweating", "Headache", "Nausea"]
+    "synonyms": ["Malaria", "Fever", "Chills", "Sweating", "Headache", "Nausea"]
   },
   {
     "value": "Dengue Fever",
-    "symptoms": ["High fever", "Severe headache", "Joint pain", "Skin rash", "Bleeding gums"]
+    "synonyms": ["Dengue Fever", "High fever", "Severe headache", "Joint pain", "Skin rash", "Bleeding gums"]
   },
   {
     "value": "Cholera",
-    "symptoms": ["Severe diarrhea", "Dehydration", "Vomiting", "Muscle cramps"]
+    "synonyms": ["Cholera", "Severe diarrhea", "Dehydration", "Vomiting", "Muscle cramps"]
   },
   {
     "value": "Typhoid Fever",
-    "symptoms": ["Prolonged fever", "Abdominal pain", "Headache", "Weakness", "Diarrhea or constipation"]
+    "synonyms": ["Typhoid Fever", "Prolonged fever", "Abdominal pain", "Headache", "Weakness", "Diarrhea or constipation"]
   },
   {
     "value": "Leprosy",
-    "symptoms": ["Skin lesions", "Numbness", "Muscle weakness", "Eye problems"]
+    "synonyms": ["Leprosy", "Skin lesions", "Numbness", "Muscle weakness", "Eye problems"]
   },
   {
     "value": "Rabies",
-    "symptoms": ["Fever", "Headache", "Anxiety", "Excessive salivation", "Difficulty swallowing", "Hydrophobia"]
+    "synonyms": ["Rabies", "Fever", "Headache", "Anxiety", "Excessive salivation", "Difficulty swallowing", "Hydrophobia"]
   },
   {
     "value": "Ebola Virus Disease",
-    "symptoms": ["Fever", "Severe headache", "Muscle pain", "Vomiting", "Bleeding"]
+    "synonyms": ["Ebola Virus Disease", "Fever", "Severe headache", "Muscle pain", "Vomiting", "Bleeding"]
   },
   {
     "value": "Zika Virus",
-    "symptoms": ["Fever", "Rash", "Joint pain", "Conjunctivitis", "Headache"]
+    "synonyms": ["Zika Virus", "Fever", "Rash", "Joint pain", "Conjunctivitis", "Headache"]
   },
   {
     "value": "Measles",
-    "symptoms": ["High fever", "Cough", "Runny nose", "Red eyes", "Skin rash"]
+    "synonyms": ["Measles", "High fever", "Cough", "Runny nose", "Red eyes", "Skin rash"]
   },
   {
     "value": "Polio",
-    "symptoms": ["Fever", "Sore throat", "Headache", "Stiff neck", "Muscle weakness", "Paralysis"]
+    "synonyms": ["Polio", "Fever", "Sore throat", "Headache", "Stiff neck", "Muscle weakness", "Paralysis"]
   },
   {
     "value": "Tetanus",
-    "symptoms": ["Jaw stiffness", "Muscle spasms", "Difficulty swallowing", "Fever", "Seizures"]
+    "synonyms": ["Tetanus", "Jaw stiffness", "Muscle spasms", "Difficulty swallowing", "Fever", "Seizures"]
   },
   {
     "value": "Diphtheria",
-    "symptoms": ["Sore throat", "Thick coating in throat", "Swollen glands", "Fever", "Weakness"]
+    "synonyms": ["Diphtheria", "Sore throat", "Thick coating in throat", "Swollen glands", "Fever", "Weakness"]
   },
   {
     "value": "Syphilis",
-    "symptoms": ["Sores on genitals", "Skin rash", "Fever", "Swollen lymph nodes", "Fatigue"]
+    "synonyms": ["Syphilis", "Sores on genitals", "Skin rash", "Fever", "Swollen lymph nodes", "Fatigue"]
   },
   {
     "value": "Gonorrhea",
-    "symptoms": ["Painful urination", "Abnormal discharge", "Pelvic pain", "Swollen testicles"]
+    "synonyms": ["Gonorrhea", "Painful urination", "Abnormal discharge", "Pelvic pain", "Swollen testicles"]
   },
   {
     "value": "Chlamydia",
-    "symptoms": ["Painful urination", "Abnormal discharge", "Pelvic pain", "Bleeding between periods"]
+    "synonyms": ["Chlamydia", "Painful urination", "Abnormal discharge", "Pelvic pain", "Bleeding between periods"]
   },
   {
     "value": "Herpes Simplex",
-    "symptoms": ["Painful blisters", "Itching", "Burning sensation", "Fever", "Swollen lymph nodes"]
+    "synonyms": ["Herpes Simplex", "Painful blisters", "Itching", "Burning sensation", "Fever", "Swollen lymph nodes"]
   },
   {
     "value": "Human Papillomavirus Infection",
-    "symptoms": ["Genital warts", "Skin warts", "Itching", "Cervical changes"]
+    "synonyms": ["Human Papillomavirus Infection", "Genital warts", "Skin warts", "Itching", "Cervical changes"]
   },
   {
     "value": "Mononucleosis",
-    "symptoms": ["Fatigue", "Sore throat", "Fever", "Swollen lymph nodes", "Enlarged spleen"]
+    "synonyms": ["Mononucleosis", "Fatigue", "Sore throat", "Fever", "Swollen lymph nodes", "Enlarged spleen"]
   },
   {
     "value": "Lyme Disease",
-    "symptoms": ["Skin rash (bull’s-eye)", "Fever", "Chills", "Fatigue", "Joint pain", "Neurological problems"]
+    "synonyms": ["Lyme Disease", "Skin rash (bull’s-eye)", "Fever", "Chills", "Fatigue", "Joint pain", "Neurological problems"]
   },
   {
     "value": "Rocky Mountain Spotted Fever",
-    "symptoms": ["Fever", "Headache", "Rash", "Muscle aches", "Nausea"]
+    "synonyms": ["Rocky Mountain Spotted Fever", "Fever", "Headache", "Rash", "Muscle aches", "Nausea"]
   },
   {
     "value": "Plague",
-    "symptoms": ["Fever", "Chills", "Swollen lymph nodes", "Weakness", "Cough with blood"]
+    "synonyms": ["Plague", "Fever", "Chills", "Swollen lymph nodes", "Weakness", "Cough with blood"]
   },
   {
     "value": "Anthrax",
-    "symptoms": ["Skin ulcers", "Cough", "Chest pain", "Difficulty breathing", "Nausea"]
+    "synonyms": ["Anthrax", "Skin ulcers", "Cough", "Chest pain", "Difficulty breathing", "Nausea"]
   },
   {
     "value": "Toxoplasmosis",
-    "symptoms": ["Fever", "Muscle aches", "Swollen lymph nodes", "Headache"]
+    "synonyms": ["Toxoplasmosis", "Fever", "Muscle aches", "Swollen lymph nodes", "Headache"]
   },
   {
     "value": "Ringworm",
-    "symptoms": ["Itchy skin", "Red scaly patches", "Hair loss", "Blisters"]
+    "synonyms": ["Ringworm", "Itchy skin", "Red scaly patches", "Hair loss", "Blisters"]
   },
   {
     "value": "Candidiasis",
-    "symptoms": ["Itching", "White patches", "Burning sensation", "Discharge"]
+    "synonyms": ["Candidiasis", "Itching", "White patches", "Burning sensation", "Discharge"]
   },
   {
     "value": "Histoplasmosis",
-    "symptoms": ["Fever", "Cough", "Chest pain", "Fatigue", "Chills"]
+    "synonyms": ["Histoplasmosis", "Fever", "Cough", "Chest pain", "Fatigue", "Chills"]
   },
   {
     "value": "Cryptococcosis",
-    "symptoms": ["Headache", "Fever", "Cough", "Neck stiffness", "Confusion"]
+    "synonyms": ["Cryptococcosis", "Headache", "Fever", "Cough", "Neck stiffness", "Confusion"]
   },
   {
     "value": "Aspergillosis",
-    "symptoms": ["Cough", "Shortness of breath", "Chest pain", "Fever", "Wheezing"]
+    "synonyms": ["Aspergillosis", "Cough", "Shortness of breath", "Chest pain", "Fever", "Wheezing"]
   },
   {
     "value": "Pneumocystis Pneumonia",
-    "symptoms": ["Cough", "Shortness of breath", "Fever", "Fatigue", "Chest tightness"]
+    "synonyms": ["Pneumocystis Pneumonia", "Cough", "Shortness of breath", "Fever", "Fatigue", "Chest tightness"]
   },
   {
     "value": "Psoriasis",
-    "symptoms": ["Red patches on skin", "Silvery scales", "Itching", "Dry cracked skin", "Joint pain"]
+    "synonyms": ["Psoriasis", "Red patches on skin", "Silvery scales", "Itching", "Dry cracked skin", "Joint pain"]
   },
   {
     "value": "Eczema",
-    "symptoms": ["Itchy skin", "Red inflamed patches", "Dryness", "Thickened skin", "Blisters"]
+    "synonyms": ["Eczema", "Itchy skin", "Red inflamed patches", "Dryness", "Thickened skin", "Blisters"]
   },
   {
     "value": "Acne",
-    "symptoms": ["Pimples", "Blackheads", "Whiteheads", "Oily skin", "Scarring"]
+    "synonyms": ["Acne", "Pimples", "Blackheads", "Whiteheads", "Oily skin", "Scarring"]
   },
   {
     "value": "Rosacea",
-    "symptoms": ["Facial redness", "Visible blood vessels", "Swollen nose", "Eye irritation"]
+    "synonyms": ["Rosacea", "Facial redness", "Visible blood vessels", "Swollen nose", "Eye irritation"]
   },
   {
     "value": "Vitiligo",
-    "symptoms": ["Loss of skin color", "White patches", "Premature graying", "Sun sensitivity"]
+    "synonyms": ["Vitiligo", "Loss of skin color", "White patches", "Premature graying", "Sun sensitivity"]
   },
   {
     "value": "Melasma",
-    "symptoms": ["Brown patches on face", "Skin discoloration", "Worsens with sun exposure"]
+    "synonyms": ["Melasma", "Brown patches on face", "Skin discoloration", "Worsens with sun exposure"]
   },
   {
     "value": "Hives",
-    "symptoms": ["Raised itchy welts", "Red skin", "Swelling", "Burning sensation"]
+    "synonyms": ["Hives", "Raised itchy welts", "Red skin", "Swelling", "Burning sensation"]
   },
   {
     "value": "Allergic Rhinitis",
-    "symptoms": ["Sneezing", "Runny nose", "Itchy eyes", "Nasal congestion"]
+    "synonyms": ["Allergic Rhinitis", "Sneezing", "Runny nose", "Itchy eyes", "Nasal congestion"]
   },
   {
     "value": "Sinusitis",
-    "symptoms": ["Facial pain", "Nasal congestion", "Headache", "Thick nasal mucus", "Fever"]
+    "synonyms": ["Sinusitis", "Facial pain", "Nasal congestion", "Headache", "Thick nasal mucus", "Fever"]
   },
   {
     "value": "Tonsillitis",
-    "symptoms": ["Sore throat", "Swollen tonsils", "Fever", "Difficulty swallowing", "Ear pain"]
+    "synonyms": ["Tonsillitis", "Sore throat", "Swollen tonsils", "Fever", "Difficulty swallowing", "Ear pain"]
   },
   {
     "value": "Pharyngitis",
-    "symptoms": ["Sore throat", "Dry throat", "Fever", "Swollen lymph nodes"]
+    "synonyms": ["Pharyngitis", "Sore throat", "Dry throat", "Fever", "Swollen lymph nodes"]
   },
   {
     "value": "Laryngitis",
-    "symptoms": ["Hoarseness", "Loss of voice", "Sore throat", "Dry cough"]
+    "synonyms": ["Laryngitis", "Hoarseness", "Loss of voice", "Sore throat", "Dry cough"]
   },
   {
     "value": "Conjunctivitis",
-    "symptoms": ["Red eyes", "Itching", "Tearing", "Discharge", "Swelling"]
+    "synonyms": ["Conjunctivitis", "Red eyes", "Itching", "Tearing", "Discharge", "Swelling"]
   },
   {
     "value": "Glaucoma",
-    "symptoms": ["Vision loss", "Eye pain", "Headache", "Halos around lights", "Nausea"]
+    "synonyms": ["Glaucoma", "Vision loss", "Eye pain", "Headache", "Halos around lights", "Nausea"]
   },
   {
     "value": "Cataract",
-    "symptoms": ["Cloudy vision", "Blurry vision", "Light sensitivity", "Poor night vision"]
+    "synonyms": ["Cataract", "Cloudy vision", "Blurry vision", "Light sensitivity", "Poor night vision"]
   },
   {
     "value": "Macular Degeneration",
-    "symptoms": ["Loss of central vision", "Blurred vision", "Difficulty recognizing faces", "Distorted vision"]
+    "synonyms": ["Macular Degeneration", "Loss of central vision", "Blurred vision", "Difficulty recognizing faces", "Distorted vision"]
   },
   {
     "value": "Diabetic Retinopathy",
-    "symptoms": ["Blurred vision", "Dark spots", "Vision loss", "Fluctuating vision"]
+    "synonyms": ["Diabetic Retinopathy", "Blurred vision", "Dark spots", "Vision loss", "Fluctuating vision"]
   },
   {
     "value": "Retinal Detachment",
-    "symptoms": ["Sudden floaters", "Flashes of light", "Shadow over vision", "Blurred vision"]
+    "synonyms": ["Retinal Detachment", "Sudden floaters", "Flashes of light", "Shadow over vision", "Blurred vision"]
   },
   {
     "value": "Cervical Spondylosis",
-    "symptoms": ["Neck pain", "Stiffness", "Headaches", "Numbness in arms", "Muscle weakness"]
+    "synonyms": ["Cervical Spondylosis", "Neck pain", "Stiffness", "Headaches", "Numbness in arms", "Muscle weakness"]
   },
   {
     "value": "Lumbar Spondylosis",
-    "symptoms": ["Lower back pain", "Stiffness", "Leg numbness", "Difficulty walking", "Muscle weakness"]
+    "synonyms": ["Lumbar Spondylosis", "Lower back pain", "Stiffness", "Leg numbness", "Difficulty walking", "Muscle weakness"]
   },
   {
     "value": "Sciatica",
-    "symptoms": ["Lower back pain", "Leg pain", "Numbness", "Tingling", "Weakness in leg"]
+    "synonyms": ["Sciatica", "Lower back pain", "Leg pain", "Numbness", "Tingling", "Weakness in leg"]
   },
   {
     "value": "Carpal Tunnel Syndrome",
-    "symptoms": ["Wrist pain", "Numbness in fingers", "Tingling sensation", "Weak grip strength"]
+    "synonyms": ["Carpal Tunnel Syndrome", "Wrist pain", "Numbness in fingers", "Tingling sensation", "Weak grip strength"]
   },
   {
     "value": "Tennis Elbow",
-    "symptoms": ["Elbow pain", "Weak grip", "Tenderness", "Stiffness", "Difficulty lifting objects"]
+    "synonyms": ["Tennis Elbow", "Elbow pain", "Weak grip", "Tenderness", "Stiffness", "Difficulty lifting objects"]
   },
   {
     "value": "Golfer's Elbow",
-    "symptoms": ["Inner elbow pain", "Stiffness", "Weakness in wrist", "Numbness in fingers"]
+    "synonyms": ["Golfer's Elbow", "Inner elbow pain", "Stiffness", "Weakness in wrist", "Numbness in fingers"]
   },
   {
     "value": "Frozen Shoulder",
-    "symptoms": ["Shoulder stiffness", "Pain", "Limited movement", "Difficulty lifting arm"]
+    "synonyms": ["Frozen Shoulder", "Shoulder stiffness", "Pain", "Limited movement", "Difficulty lifting arm"]
   },
   {
     "value": "Rotator Cuff Injury",
-    "symptoms": ["Shoulder pain", "Weakness", "Difficulty lifting arm", "Clicking sound in shoulder"]
+    "synonyms": ["Rotator Cuff Injury", "Shoulder pain", "Weakness", "Difficulty lifting arm", "Clicking sound in shoulder"]
   },
   {
     "value": "Patellar Tendonitis",
-    "symptoms": ["Knee pain", "Swelling", "Tenderness below kneecap", "Difficulty jumping"]
+    "synonyms": ["Patellar Tendonitis", "Knee pain", "Swelling", "Tenderness below kneecap", "Difficulty jumping"]
   },
   {
     "value": "Ankle Sprain",
-    "symptoms": ["Ankle pain", "Swelling", "Bruising", "Difficulty walking"]
+    "synonyms": ["Ankle Sprain", "Ankle pain", "Swelling", "Bruising", "Difficulty walking"]
   },
   {
     "value": "Achilles Tendonitis",
-    "symptoms": ["Heel pain", "Swelling", "Stiffness", "Difficulty running"]
+    "synonyms": ["Achilles Tendonitis", "Heel pain", "Swelling", "Stiffness", "Difficulty running"]
   },
   {
     "value": "Plantar Fasciitis",
-    "symptoms": ["Heel pain", "Foot arch pain", "Stiffness", "Pain after rest"]
+    "synonyms": ["Plantar Fasciitis", "Heel pain", "Foot arch pain", "Stiffness", "Pain after rest"]
   },
   {
     "value": "Gout",
-    "symptoms": ["Joint pain", "Swelling", "Redness", "Warmth in joint", "Sudden intense pain"]
+    "synonyms": ["Gout", "Sudden joint pain", "Swelling", "Redness", "Warmth in joint", "Common in big toe"]
   },
   {
-    "value": "Rheumatoid Arthritis",
-    "symptoms": ["Joint pain", "Swelling", "Stiffness", "Fatigue", "Joint deformity"]
+    "value": "Scoliosis",
+    "synonyms": ["Scoliosis", "Uneven shoulders", "Back pain", "Curved spine", "One hip higher than other"]
   },
   {
-    "value": "Lupus",
-    "symptoms": ["Fatigue", "Joint pain", "Skin rash", "Fever", "Chest pain"]
-  },
-  {
-    "value": "Scleroderma",
-    "symptoms": ["Skin thickening", "Joint stiffness", "Heartburn", "Raynaud’s phenomenon"]
-  },
-  {
-    "value": "Sjogren's Syndrome",
-    "symptoms": ["Dry eyes", "Dry mouth", "Fatigue", "Joint pain", "Swollen glands"]
-  },
-  {
-    "value": "Celiac Disease",
-    "symptoms": ["Diarrhea", "Bloating", "Weight loss", "Fatigue", "Anemia"]
-  },
-  {
-    "value": "Crohn's Disease",
-    "symptoms": ["Abdominal pain", "Diarrhea", "Weight loss", "Fatigue", "Mouth sores"]
-  },
-  {
-    "value": "Ulcerative Colitis",
-    "symptoms": ["Abdominal pain", "Bloody diarrhea", "Urgent bowel movements", "Fatigue"]
-  },
-  {
-    "value": "Irritable Bowel Syndrome",
-    "symptoms": ["Abdominal pain", "Bloating", "Diarrhea", "Constipation", "Gas"]
-  },
-  {
-    "value": "Gastroesophageal Reflux Disease",
-    "symptoms": ["Heartburn", "Chest pain", "Regurgitation", "Difficulty swallowing", "Chronic cough"]
+    "value": "Kyphosis",
+    "synonyms": ["Kyphosis", "Hunched back", "Back pain", "Stiffness", "Fatigue", "Breathing difficulties"]
   }
 ]
-  
-
-
-
-
