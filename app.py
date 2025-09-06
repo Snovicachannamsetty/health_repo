@@ -94,13 +94,14 @@ def webhook():
 if __name__ == "__main__":
     port = int(os.getenv("PORT", 5000))
     app.run(host="0.0.0.0", port=port)'''
+
+
 from flask import Flask, request, jsonify
 import requests
 
 app = Flask(__name__)
 
 # GitHub raw URLs
-DISEASES_URL = "https://raw.githubusercontent.com/Snovicachannamsetty/health_repo/main/diseases.json"
 SYMPTOMS_URL = "https://raw.githubusercontent.com/Snovicachannamsetty/health_repo/main/symptoms.json"
 PREVENTIONS_URL = "https://raw.githubusercontent.com/Snovicachannamsetty/health_repo/main/preventions.json"
 
@@ -109,22 +110,27 @@ PREVENTIONS_URL = "https://raw.githubusercontent.com/Snovicachannamsetty/health_
 def webhook():
     req = request.get_json(silent=True, force=True)
     
+    # Extract intent and parameters
     intent = req.get("queryResult").get("intent").get("displayName")
     parameters = req.get("queryResult").get("parameters")
     disease = parameters.get("disease_data")
 
+    # Handle symptoms intent
     if intent == "disease_info":
         response_text = get_symptoms(disease)
         return jsonify({"fulfillmentText": response_text})
 
-    elif intent == "prevention_info":
+    # Handle preventions intent (accepts both singular/plural)
+    elif intent in ["prevention_info", "preventions_info"]:
         response_text = get_preventions(disease)
         return jsonify({"fulfillmentText": response_text})
-
+    
+    # Default fallback
     return jsonify({"fulfillmentText": "I didn't understand. Can you rephrase?"})
 
 
 def get_symptoms(disease):
+    """Fetch symptoms for a given disease from GitHub JSON"""
     try:
         data = requests.get(SYMPTOMS_URL).json()
         for item in data:
@@ -140,6 +146,7 @@ def get_symptoms(disease):
 
 
 def get_preventions(disease):
+    """Fetch preventions for a given disease from GitHub JSON"""
     try:
         data = requests.get(PREVENTIONS_URL).json()
         for item in data:
@@ -156,4 +163,3 @@ def get_preventions(disease):
 
 if __name__ == '__main__':
     app.run(port=5000, debug=True)
-
