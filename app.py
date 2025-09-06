@@ -179,41 +179,4 @@ def webhook():
             ]
 
             if matching_diseases:
-                response_text = f"The symptom '{symptom}' is commonly seen in: {', '.join(matching_diseases)}."
-            else:
-                response_text = f"Sorry, I couldn’t find any disease with the symptom '{symptom}'."
-
-        else:
-            response_text = "Please ask me about a disease or symptom."
-
-        return jsonify({"fulfillmentText": response_text})
-
-    # -------- Preventions Info Intent --------
-    elif intent == "prevention_info":
-        parameters = req.get("queryResult").get("parameters")
-        disease = parameters.get("disease_data")
-
-        response_text = ""
-
-        if disease:
-            if isinstance(disease, list) and len(disease) > 0:
-                disease = disease[0]
-            disease = disease.lower()
-
-            if disease in preventions_data:
-                preventions = ", ".join(preventions_data[disease])
-                response_text = f"Preventions for {disease.title()} are: {preventions}."
-            else:
-                response_text = f"Sorry, I don’t have prevention info for {disease.title()}."
-        else:
-            response_text = "Please specify a disease to get prevention information."
-
-        return jsonify({"fulfillmentText": response_text})
-
-    # -------- Default Fallback --------
-    return jsonify({"fulfillmentText": "Intent not handled by webhook."})
-
-
-if __name__ == "__main__":
-    port = int(os.getenv("PORT", 5000))
-    app.run(host="0.0.0.0", port=port)
+                response_text = f"The symptom '{symptom}' is commonly seen in: {', '._
