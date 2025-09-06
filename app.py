@@ -113,14 +113,21 @@ def webhook():
     parameters = req.get("queryResult").get("parameters")
     disease = parameters.get("disease_data")
 
-    if intent == "disease_info":
+    '''if intent == "disease_info":
         response_text = get_symptoms(disease)
         return jsonify({"fulfillmentText": response_text})
 
     elif intent == "prevention_info":
         response_text = get_preventions(disease)
-        return jsonify({"fulfillmentText": response_text})
-    
+        return jsonify({"fulfillmentText": response_text})'''
+    if intent == "disease_info":
+    response_text = get_symptoms(disease)
+    return jsonify({"fulfillmentText": response_text})
+
+    elif intent == "preventions_info":   # <-- fixed name
+    response_text = get_preventions(disease)
+    return jsonify({"fulfillmentText": response_text})
+
     return jsonify({"fulfillmentText": "I didn't understand. Can you rephrase?"})
 
 
