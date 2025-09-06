@@ -1,4 +1,4 @@
-from flask import Flask, request, jsonify
+'''from flask import Flask, request, jsonify
 import json
 import os
 import requests
@@ -93,4 +93,67 @@ def webhook():
 
 if __name__ == "__main__":
     port = int(os.getenv("PORT", 5000))
-    app.run(host="0.0.0.0", port=port)
+    app.run(host="0.0.0.0", port=port)'''
+from flask import Flask, request, jsonify
+import requests
+
+app = Flask(__name__)
+
+# GitHub raw URLs
+DISEASES_URL = "https://raw.githubusercontent.com/Snovicachannamsetty/health_repo/main/diseases.json"
+SYMPTOMS_URL = "https://raw.githubusercontent.com/Snovicachannamsetty/health_repo/main/symptoms.json"
+PREVENTIONS_URL = "https://raw.githubusercontent.com/Snovicachannamsetty/health_repo/main/preventions.json"
+
+
+@app.route('/webhook', methods=['POST'])
+def webhook():
+    req = request.get_json(silent=True, force=True)
+    
+    intent = req.get("queryResult").get("intent").get("displayName")
+    parameters = req.get("queryResult").get("parameters")
+    disease = parameters.get("disease_data")
+
+    if intent == "disease_info":
+        response_text = get_symptoms(disease)
+        return jsonify({"fulfillmentText": response_text})
+
+    elif intent == "prevention_info":
+        response_text = get_preventions(disease)
+        return jsonify({"fulfillmentText": response_text})
+    
+    return jsonify({"fulfillmentText": "I didn't understand. Can you rephrase?"})
+
+
+def get_symptoms(disease):
+    try:
+        data = requests.get(SYMPTOMS_URL).json()
+        for item in data:
+            if item["disease"].lower() == disease.lower():
+                symptoms = item.get("symptoms", [])
+                if symptoms:
+                    return f"Symptoms of {disease} are: " + ", ".join(symptoms)
+                else:
+                    return f"Sorry, I don't have symptom info for {disease}."
+        return f"I couldn't find any symptom details for {disease}."
+    except Exception as e:
+        return f"Error fetching symptom data: {str(e)}"
+
+
+def get_preventions(disease):
+    try:
+        data = requests.get(PREVENTIONS_URL).json()
+        for item in data:
+            if item["disease"].lower() == disease.lower():
+                preventions = item.get("preventions", [])
+                if preventions:
+                    return f"Preventions for {disease} are: " + ", ".join(preventions)
+                else:
+                    return f"Sorry, I don't have prevention info for {disease}."
+        return f"I couldn't find any prevention details for {disease}."
+    except Exception as e:
+        return f"Error fetching prevention data: {str(e)}"
+
+
+if __name__ == '__main__':
+    app.run(port=5000, debug=True)
+
